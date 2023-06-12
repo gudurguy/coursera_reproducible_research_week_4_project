@@ -1,11 +1,11 @@
 ---
-title: "Reproducible Research Week 4 Project Work"
+title: "Impact of Adverse Weather on General Population Health and Economy"
 author: "Gudur Guy"
 date: "6/12/2023"
 output: html_document
 ---
 
-## Synopsis: Impact of Adverse Weather on General Population and Economy
+## Synopsis: Impact of Adverse Weather on General Population Health and Economy
 
 Storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.
 
