@@ -178,8 +178,7 @@ barplot(totalDamages10$DMGTOTAL/(10^9), las = 3, names.arg = totalDamages10$EVTY
 ## 3. Results
 After this analysis, we can comfortably answer the following two questions that were posed initially.
 
-1. **Across the United States, which types of events (as indicated in the 
-EVTYPE variable) are most harmful with respect to population health?**
+1. **Across the United States, which types of events (as indicated in the EVTYPE variable) are most harmful with respect to population health?**
   * **The most harmful event is Tornado, followed by Excessive Heat**
 
   
